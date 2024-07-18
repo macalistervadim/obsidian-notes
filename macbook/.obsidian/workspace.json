@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c94187862b0bd67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python. Django. Защита TLS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python. Django. Защита TLS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python. Django. Защита TLS.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -243,8 +255,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ed5b931359461e5d",
+  "active": "6c94187862b0bd67",
   "lastOpenFiles": [
+    "Python. Django. Защита TLS.md",
+    "conflict-files-obsidian-git.md",
     "Без названия.md",
     "sd",
     "JavaScript.  Объекты.md",
@@ -269,7 +283,6 @@
     "Автошкола. Ограниченная и недостаточная видимость.md",
     "Курсы. Как ускорить Django проект.md",
     "Python. Django. Slug.md",
-    "Python. Django. Защита TLS.md",
     "Python. Шпаргалки по ООП.md",
     "Python.  Датаклассы @dataclass.md",
     "templates",
