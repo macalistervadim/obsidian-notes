@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.  Объекты.md",
+                "file": "Python. Django. Защита TLS.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.  Объекты.md",
+                "file": "Python. Django. Защита TLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.  Объекты.md",
+                "file": "Python. Django. Защита TLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.  Объекты.md"
+                "file": "Python. Django. Защита TLS.md"
               }
             }
           }
@@ -245,10 +245,12 @@
   },
   "active": "ed5b931359461e5d",
   "lastOpenFiles": [
+    "Без названия.md",
+    "sd",
+    "JavaScript.  Объекты.md",
+    "Курсы. Django школа Яндекса.md",
     "Python. Алгоритмы. Бинарный поиск.md",
     "notes",
-    "Курсы. Django школа Яндекса.md",
-    "JavaScript.  Объекты.md",
     "JavaScript. Конструктор \"new\".md",
     "Python. Операторы is ==.md",
     "Python. Хешируемость объектов.md",
@@ -270,8 +272,6 @@
     "Python. Django. Защита TLS.md",
     "Python. Шпаргалки по ООП.md",
     "Python.  Датаклассы @dataclass.md",
-    "Python.  Функции.md",
-    "Python.  raise, yield, return, none.md",
     "templates",
     "Родительские классы/IT/Python/Курсы",
     "Родительские классы/IT/Python/Книги",
@@ -279,7 +279,6 @@
     "Родительские классы/IT/Python",
     "Родительские классы/IT/JavaScript",
     "Родительские классы/Автошкола",
-    "Родительские классы/IT",
-    "Родительские классы"
+    "Родительские классы/IT"
   ]
 }
