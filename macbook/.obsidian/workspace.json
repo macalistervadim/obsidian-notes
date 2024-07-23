@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Идеи для будущих проектов.md",
+                "file": "Книги. DRF, Django 4.0.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "46f639f8e131ff41",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "drf+django4.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Идеи для будущих проектов.md",
+                "file": "drf+django4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Идеи для будущих проектов.md",
+                "file": "drf+django4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Идеи для будущих проектов.md"
+                "file": "drf+django4.pdf"
               }
             }
           },
@@ -169,10 +179,20 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "60df089ad88230ef",
+  "active": "46f639f8e131ff41",
   "lastOpenFiles": [
-    "Планирование чтения книг.md",
+    "drf.pdf",
+    "Книги. DRF, Django 4.0.md",
+    "Книги. DRF.md",
+    "Джанго_для_API_Создавайте_веб_API_с_помощью_Python_и_Django_на_русском.pdf",
+    "drf+django4.pdf",
+    "Гайд по Django Rest Framework.pdf",
     "Идеи для будущих проектов.md",
+    "Планирование чтения книг.md",
+    "Джанго_для_API_Создавайте_веб_API_с_помощью_Python_и_Django_на_русском.pdf.md",
+    "Python. Аннотации типов.md",
+    "Python. Внутри переменных.md",
+    "Python. Шпаргалки по ООП.md",
     "Книги. Python типизация.md",
     "Прочитанная литература.md",
     "Видеоролики. Python.md",
@@ -185,15 +205,10 @@
     "Курсы. Django школа Яндекса.md",
     "JavaScript. Конструктор \"new\".md",
     "Курсы. Как ускорить Django проект.md",
-    "Python. Аннотации типов.md",
-    "Python. Внутри переменных.md",
     "Python. Замыкания.md",
     "Python..md",
     "Python. Алгоритмы. Хеш-таблицы.md",
     "Python. Django. Защита TLS.md",
-    "Python. Django. Slug.md",
-    "Python. Рекурсия.md",
-    "Python. Алгоритмы. Бинарный поиск.md",
-    "JavaScript. Копирование объектов и примитивов.md"
+    "Python. Django. Slug.md"
   ]
 }
