@@ -199,4 +199,4 @@ curl [http://127.0.0.1:8000/health](http://127.0.0.1:8000/health)
 3. Точка входа `main.py` регистрирует логгер в жизненном цикле приложения, а контрольный эндпоинт `/health` подтверждает запись структурированных атрибутов.
 
 Рабочий пример кода этого этапа доступен в ветке:  
-`https://github.com/<org>/tradepulse/tree/chapter-01-logging-setup`
+https://github.com/macalistervadim/tradepulse/tree/chapter-01-logging-setup

@@ -250,4 +250,4 @@ uv run ruff format --check .
 4. Весь репозиторий приведен к единому формату командой `ruff format`.
 
 Рабочий пример кода этого этапа доступен в ветке:  
-`https://github.com/<org>/tradepulse/tree/chapter-01-ruff-setup`
+https://github.com/macalistervadim/tradepulse/pull/new/chapter-01-ruff-setup

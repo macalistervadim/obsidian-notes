@@ -184,5 +184,5 @@ docker compose down
 3. Локальный сервер API поднимается с активным hot-reload, а веб-интерфейс Mailpit доступен на порту 8025.
 
 Рабочий пример кода этого этапа доступен в ветке:
-⁠https://github.com/<org>/tradepulse/tree/chapter-01-compose-profiles⁠
+⁠https://github.com/macalistervadim/tradepulse/tree/chapter-01-compose-profiles⁠
 

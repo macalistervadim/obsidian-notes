@@ -175,4 +175,4 @@ docker rm tradepulse-api
 3. Образ собран, запущен и протестирован на порту 8000 с доступом к автодокументации OpenAPI.
 
 Рабочий пример кода этого этапа доступен в ветке:  
-`[https://github.com/](https://github.com/)<org>/tradepulse/tree/chapter-01-dockerfile`
+https://github.com/macalistervadim/tradepulse/tree/chapter-01-dockerfile

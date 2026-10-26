@@ -207,4 +207,4 @@ Success: no issues found in 7 source files
 4. Кодовая база сервиса `TradePulse` полностью валидна с точки зрения статического анализатора типов.
 
 Рабочий пример кода этого этапа доступен в ветке:  
-`https://github.com/<org>/tradepulse/tree/chapter-01-mypy-setup`
+https://github.com/macalistervadim/tradepulse/pull/new/chapter-01-mypy-setup
